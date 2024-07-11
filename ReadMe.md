@@ -13,9 +13,5 @@
 
 From the data analysis conducted for this research, several factors influence house prices. Notably, square footage has a direct impact on house prices, with larger square footage generally commanding higher prices. Additionally, the location of the property significantly influences its market value.
 
-## Understanding Linear Regression
-
-Linear Regression:
-Linear regression is a statistical model used to predict future outcomes based on historical relationships between variables. When your scatter plot shows a linear arrangement of data points, it indicates that linear regression can effectively predict future trends. This modeling technique is valuable for understanding and predicting house price trends based on historical data patterns.
 
 
